@@ -1,4 +1,4 @@
-# WinCombo
+# DPSaver:<br>
 DPSaver é um sistema de gerenciamento de estoque simples para locar e localizar produtos.<br>
 "Quando entrei na empresa vi que tinha alguns problemas com estoque, então busquei uma maneira simples de melhorar o processo de separção e endereçamento!"<br>
 Sistema desenvolvido por um estudante de c#, feito em Windows Forms para plataforma Windows.<br>
