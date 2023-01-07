@@ -1,7 +1,7 @@
 # DPSaver:<br>
 DPSaver é um sistema de gerenciamento de estoque simples para locar e localizar produtos.<br>
 "Quando entrei na empresa vi que tinha alguns problemas com estoque, então busquei uma maneira simples de melhorar o processo de separção e endereçamento!"<br>
-Sistema desenvolvido por um estudante de c#, feito em Windows Forms para plataforma Windows.<br>
+É possivel cadastrar , modificar, buscar, imprimir etiqueta do produto.<br>
 
 # Utiliza:<br>
 Mysql como gerenciador de banco de dados.<br>
@@ -21,6 +21,7 @@ https://github.com/Yoshzy/DPServer
 <b>Buscar produtos - localiza produtos e imprime a etiqueta.</b><br>
 <b>Cadastro de Produtos - Cadastra produtos, modifica e busca de itens por locação.<b><br>
 <b>Cadastro de usuaários - adiciona usuários para ter acesso ao sistema.</b><br>
+<b>Imprimir etiqueta - Gera uma impressão da etiqueta do produto com um qrCode que leva ao produto no site, um código de barras para o leitor digital e o numero do sku do produto!<br><br>
   
 # Imagens
   
