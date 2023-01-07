@@ -1,0 +1,65 @@
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Res\alarme.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Res\bank.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Res\dormir.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Res\noite.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Res\tarde.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\DP Saver.exe.config
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\DP Saver.exe
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\DP Saver.pdb
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\BarcodeStandard.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Google.Protobuf.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Guna.UI2.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\MySql.Data.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\QRCoder.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Buffers.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Drawing.Common.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Memory.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Text.Json.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.ValueTuple.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\ZstdNet.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Google.Protobuf.pdb
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Google.Protobuf.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\MySql.Data.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Buffers.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Memory.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Text.Json.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Debug\System.ValueTuple.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP Saver.csproj.AssemblyReference.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP Saver.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.AtualizarItem.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Busca.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Cadastro.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.CdT1.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Consulta.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Deletar.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Home.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Login.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Main.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Properties.Resources.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP Saver.csproj.GenerateResource.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP Saver.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP Saver.csproj.CopyComplete
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP Saver.exe
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP Saver.pdb
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Debug\DP_Saver.Usuarios.resources

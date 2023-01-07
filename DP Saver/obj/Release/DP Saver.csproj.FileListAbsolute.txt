@@ -1,0 +1,130 @@
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Res\alarme.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Res\bank.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Res\dormir.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Res\noite.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Res\tarde.png
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\DP Saver.exe.config
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\DP Saver.exe
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\DP Saver.pdb
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\BarcodeStandard.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\FontAwesome.Sharp.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Google.Protobuf.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Guna.UI2.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\MySql.Data.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\QRCoder.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Buffers.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Drawing.Common.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Memory.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Numerics.Vectors.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Json.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.ValueTuple.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\ZstdNet.dll
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Google.Protobuf.pdb
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Google.Protobuf.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\MySql.Data.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Buffers.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Memory.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Numerics.Vectors.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Json.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\bin\Release\System.ValueTuple.xml
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.AssemblyReference.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.AtualizarItem.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Busca.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Cadastro.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.CdT1.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Consulta.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Deletar.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Home.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Login.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Main.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Properties.Resources.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Usuarios.resources
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.GenerateResource.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.CopyComplete
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.exe
+C:\Users\aliss\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.pdb
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Res\alarme.png
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Res\bank.png
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Res\dormir.png
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Res\noite.png
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Res\tarde.png
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\DP Saver.exe.config
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\DP Saver.exe
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\DP Saver.pdb
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\BarcodeStandard.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\BouncyCastle.Crypto.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\FontAwesome.Sharp.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Google.Protobuf.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Guna.UI2.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\K4os.Hash.xxHash.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\MySql.Data.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\QRCoder.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Buffers.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Drawing.Common.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Memory.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Numerics.Vectors.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Encodings.Web.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Json.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.ValueTuple.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Ubiety.Dns.Core.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\ZstdNet.dll
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Google.Protobuf.pdb
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Google.Protobuf.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\K4os.Hash.xxHash.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\MySql.Data.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Buffers.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Memory.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Numerics.Vectors.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Encodings.Web.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Text.Json.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Projects\source\repos\DP Saver\DP Saver\bin\Release\System.ValueTuple.xml
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.AssemblyReference.cache
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.SuggestedBindingRedirects.cache
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.AtualizarItem.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Busca.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Cadastro.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.CdT1.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Consulta.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Deletar.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Home.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Login.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Main.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Properties.Resources.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP_Saver.Usuarios.resources
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.GenerateResource.cache
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.CoreCompileInputs.cache
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.csproj.CopyComplete
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.exe
+D:\Projects\source\repos\DP Saver\DP Saver\obj\Release\DP Saver.pdb
