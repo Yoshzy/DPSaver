@@ -28,11 +28,11 @@ https://github.com/Yoshzy/DPServer
   ![alt text](https://i.imgur.com/p48ikVn.png)<br><br>
   <b>Home:</b><br><br>
   ![alt text](https://i.imgur.com/qR8uQoM.png)<br><br>
-  <b>Fatura:</b><br><br>
+  <b>Busca:</b><br><br>
   ![alt text](https://i.imgur.com/bjt9xDp.png)<br><br>
-  <b>serviço:</b><br><br>
+  <b>Cadastro de produtos:</b><br><br>
   ![alt text](https://i.imgur.com/KyhBcIA.png)<br><br>
-  <b>Cofrinho:</b><br><br>
+  <b>Cadastro de usuários:</b><br><br>
   ![alt text](https://i.imgur.com/Nqt5cae.pngg)<br><br>
 
   # Grato:<br>
