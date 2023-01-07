@@ -19,7 +19,7 @@ https://github.com/Yoshzy/DPServer
 # Módulos
 <b>Home - interface inicial do usuário.<br>
 <b>Buscar produtos - localiza produtos e imprime a etiqueta.</b><br>
-<b>Cadastro de Produtos - Cadastra produtos, modifica e busca.<b><br>
+<b>Cadastro de Produtos - Cadastra produtos, modifica e busca de itens por locação.<b><br>
 <b>Cadastro de usuaários - adiciona usuários para ter acesso ao sistema.</b><br>
   
 # Imagens
