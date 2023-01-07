@@ -1,7 +1,7 @@
 # WinCombo
-DPSaver é um sistema de gerenciamento de estoque simples para locar e localizar produtos.
-"Quando entrei na empresa vi que tinha alguns problemas com estoque, então busquei uma maneira simples de melhorar o processo de separção e endereçamento!"
-Sistema desenvolvido por um estudante de c#, feito em Windows Forms para plataforma Windows.
+DPSaver é um sistema de gerenciamento de estoque simples para locar e localizar produtos.<br>
+"Quando entrei na empresa vi que tinha alguns problemas com estoque, então busquei uma maneira simples de melhorar o processo de separção e endereçamento!"<br>
+Sistema desenvolvido por um estudante de c#, feito em Windows Forms para plataforma Windows.<br>
 
 # Utiliza:<br>
 Mysql como gerenciador de banco de dados.<br>
@@ -32,4 +32,5 @@ GUNA UI.<br>
   # Grato:<br>
 Jonathan Cortez.
 
-Os direitos sobre a logo do sistema são de exclusividade da Dispropil, logo inserida apenas como método de estudo e sem vinculo com a empresa.
+# OBS:<br>
+Os direitos sobre a logo do sistema são de exclusividade da Dispropil, logo inserida apenas como método de estudo e sem vinculo com a empresa.<br>
