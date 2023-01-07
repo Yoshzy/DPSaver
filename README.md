@@ -10,6 +10,12 @@ FontAwesome.<br>
 RjCode border style.<br>
 GUNA UI.<br>
 
+# Atenção:<br>
+O sistem trabalha em conjunto com um servidor própio de subir imagens dos produtos!<br>
+Deve configura-lo para apontar para uma pasta dentro do seu servidor de gerenciador web, xampp htdocs etc.<br>
+Deve configurar o ip e a porta tal qual vai receber os dados!
+https://github.com/Yoshzy/DPServer
+
 # Módulos
 <b>Home - interface inicial do usuário.<br>
 <b>Buscar produtos - localiza produtos e imprime a etiqueta.</b><br>
